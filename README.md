@@ -1,6 +1,6 @@
 ## Hello, I'm Nirbhay <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="60" height="50" />
 <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" align ="right" width="250"  />
- 🎓 I'm pursuing my B.Tech in CSE branch from VIT <br> &nbsp &nbsp &nbsp Vellore(2021-2025).<br>
+ 🎓 I'm pursuing my B.Tech in Computer Science and Engineering branch from VIT <br> &nbsp &nbsp &nbsp Vellore(2021-2025).<br>
  🔭 I’m currently working on MERN Stack development.<br>👨‍💻I am currently learning Data Structures and Algorithms.<br>💬Ask me about MERN Stack && DSA.<br>
  ⚡ Fun fact: I  love coding.<br><br>
 
