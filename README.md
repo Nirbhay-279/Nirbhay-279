@@ -24,7 +24,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=nirbhay-279&theme=dark&hide_border=false&show_icons=true&locale=en&layout=compact)
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nirbhay_279&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=nirbhay-279&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
 
 
 ---
