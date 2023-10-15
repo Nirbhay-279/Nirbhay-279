@@ -23,6 +23,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nirbhay-279&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=nirbhay-279&theme=dark&hide_border=false&show_icons=true&locale=en&layout=compact)
+## 🏆 GitHub Badges
+
+[![An image of @nirbhay279's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nirbhay279)](https://holopin.io/@nirbhay279)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nirbhay-279&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
 
